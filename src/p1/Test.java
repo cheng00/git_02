@@ -9,6 +9,7 @@ public class Test {
 		System.out.println("»Æ¼Î³Ç");
 		System.out.println("diaoni");
 		System.out.println("123456");
+		System.out.println("dddsd");
 	}
 
 }
