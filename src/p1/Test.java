@@ -7,6 +7,7 @@ public class Test {
 		System.out.println("¹ş¹ş¹ş");
 		System.out.println("ÄãÂİÄ¸");
 		System.out.println("»Æ¼Î³Ç");
+		System.out.println("diaoni");
 	}
 
 }
